@@ -29,6 +29,15 @@ Hi there! My name is Magdiel, usually go by Mag! I am a full stack software engi
 
 ***
 
+### Fun Facts
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magdielrosario97&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdielrosario97&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+***
+
 ### Hobbies
 - Coding
 - Motorsports
