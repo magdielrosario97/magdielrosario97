@@ -29,7 +29,7 @@ Hi there! My name is Magdiel, usually go by Mag! I am a full stack software engi
 
 ***
 
-### Fun Facts
+### Fun Facts [^2]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magdielrosario97&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -47,7 +47,8 @@ Hi there! My name is Magdiel, usually go by Mag! I am a full stack software engi
 - Space
 - Photography
 
-[^1]: Logo credits: https://github.com/yurijserrano/Github-Profile-Readme-Logos
+[^1]: Credits: https://github.com/yurijserrano/Github-Profile-Readme-Logos
+[^2]: Credits: https://github.com/anuraghazra/github-readme-stats
 <!--
 **magdielrosario97/magdielrosario97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
