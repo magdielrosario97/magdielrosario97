@@ -47,8 +47,9 @@ Hi there! My name is Magdiel, usually go by Mag! I am a full stack software engi
 - Space
 - Photography
 
-[^1]: Credits: https://github.com/yurijserrano/Github-Profile-Readme-Logos
-[^2]: Credits: https://github.com/anuraghazra/github-readme-stats
+Credits
+[^1]: https://github.com/yurijserrano/Github-Profile-Readme-Logos
+[^2]: https://github.com/anuraghazra/github-readme-stats
 <!--
 **magdielrosario97/magdielrosario97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
