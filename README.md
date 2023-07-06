@@ -7,7 +7,6 @@
 
 Hi there! My name is Magdiel, usually go by Mag! I am a full stack software engineer/developer with a passion for tech and anything automotive. I am an US Air Force veteran where I served 6 years working on aircrafts as a structural maintenance craftsman. I am a very easy going person with clear communications and a strong team member. I am always looking for new things to learn and ways to grow my skills through research and hands on usage. I currently specialize in PERN stack applications where I am most proficient in while also learning MongoDB to expand my stack capabilities to include MERN stack as well. Do not hesitate to reach out to me if you would like to collaborate on any projects or would like a second pair of eyes on your code!
 
-- Located in Navarre, FL
 - Contact me at magdielrosario97@gmail.com
 - Connect with me www.linkedin.com/in/msro97
 
