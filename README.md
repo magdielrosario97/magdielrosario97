@@ -1,10 +1,3 @@
-
-### Magdiel Rosario Orta
-
-#### *Full Stack Software Engineer*
-
-***
-
 ### Hi there 👋 I'm Magdiel — but most people call me Mag!
 
 I'm a full-stack software engineer with a background in aircraft structural maintenance and a passion for both code and cars. I’m a U.S. Air Force veteran with 6 years of hands-on experience leading and mentoring teams, and I'm currently finishing my Computer Science degree at Southern New Hampshire University. I’ve spent the last few years building skills in full-stack development through hands-on projects and coursework.
