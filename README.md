@@ -7,7 +7,7 @@ I'm a full-stack software engineer with a background in aircraft structural main
 ### Technical Skills
 **Languages:** JavaScript, Java, C++, Python, SQL, HTML, CSS
 
-**Frameworks:** Libraries:** React, Node.js, Express, JQuery
+**Frameworks:** React, Node.js, Express, JQuery
 
 **Databases:** PostgreSQL, MySQL
 
