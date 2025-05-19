@@ -19,9 +19,9 @@ I'm a full-stack software engineer with a background in aircraft structural main
 
 ### Fun Facts [^1]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magdielrosario97&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-msrdev.vercel.app/api?username=magdielrosario97&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdielrosario97&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-msrdev.vercel.app/api/top-langs/?username=magdielrosario97&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ***
