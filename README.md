@@ -1,19 +1,19 @@
 ### Hi there 👋 I'm Magdiel — but most people call me Mag!
 
-I'm a full-stack software engineer with a background in aircraft structural maintenance and a passion for both code and cars. I’m a U.S. Air Force veteran with 6 years of hands-on experience leading and mentoring teams, and I'm currently finishing my Computer Science degree at Southern New Hampshire University. I’ve spent the last few years building skills in full-stack development through hands-on projects and coursework.
+U.S. Air Force veteran and soon-to-be Computer Science graduate with hands-on experience in full-stack and systems-level development using Ubuntu, Bash, and open-source tools. Skilled in Python, C++, and JavaScript with a strong foundation in Linux environments, version control, and mentoring. Actively seeking an internship to apply technical skills, collaborate across disciplines, and grow within a public media mission-driven organization.
 
 ***
 
 ### Technical Skills
-**Languages:** JavaScript, Java, C++, Python, SQL, HTML, CSS
+**Languages**: Python, JavaScript, C++, Java, SQL, Bash
 
-**Frameworks:** React, Node.js, Express, JQuery
+**Technologies**: Ubuntu/Linux, Git, REST APIs, Docker, Postman
 
-**Databases:** PostgreSQL, MySQL
+**Frameworks/Libraries**: React, Node.js, Express
 
-**Tools:** Git, GitHub, VS Code, Postman, REST APIs, Android Studio, Agile/Scrum
+**Databases**: PostgreSQL, MySQL, MongoDB, SQLite
 
-**Other:** Android Development, TDD, Software Debugging, Embedded Systems
+**Tools**: GitHub, Agile/Scrum, TDD, Debugging
 
 ***
 
