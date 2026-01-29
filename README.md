@@ -1,6 +1,6 @@
 ### Welcome! I'm Magdiel but most people call me Mag!
 
-U.S. Air Force veteran and soon-to-be Computer Science graduate with hands-on experience in full-stack and systems-level development using Ubuntu, Bash, and open-source tools. Skilled in JavaScript, Python, and Java with a strong foundation in Linux environments, version control, and mentoring. Actively seeking an internship to apply technical skills, collaborate across disciplines, and grow within a public media mission-driven organization.
+U.S. Air Force veteran and soon-to-be Computer Science graduate with hands-on experience in full-stack and systems-level development using Ubuntu, Bash, and open-source tools. Skilled in JavaScript, Python, and Java with a strong foundation in Linux environments, version control, and mentoring. Actively seeking an internship to apply technical skills, collaborate across disciplines, and grow within a mission-driven organization.
 
 ***
 
